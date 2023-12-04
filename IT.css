@@ -1,0 +1,399 @@
+.Hero{
+    height: 1162px;
+}
+
+.Hero.content {
+    position: absolute;
+    left: 200px; 
+    top: 852px; 
+    transform: translateY(-50%);
+    width: 700px;
+}
+
+.designer{
+    width: 1490.03px;
+    height: 1161px;
+    top: -49px;
+    left: 417.29px;
+}
+
+.title {
+    font-family: Roboto;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 66px;
+    letter-spacing: 1px;
+    text-align: left;
+
+}
+
+.Text_body_hero{
+    color: #505F98;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+
+.button{
+    padding: 15px 42px;
+    text-align: center;
+    font-size: 20px;
+    border: 4px;
+    border-style: solid;
+    border-radius: 10;
+    border-color: #091133;
+}
+
+.button1{
+    color:white;
+    background-color: #091133;
+}
+
+.button2{
+    transform:translateX(20%);
+    color: #091133;
+    background-color:transparent;
+}
+
+.undraw_mobile_login_ikmv{
+    width: 1440px;
+    height: 742px;
+    top: 1110px
+}
+
+
+.Text_Block_2{
+    position: absolute;
+    width: 540px;
+    height: 204px;
+    top: 1270px;
+    left: 165px;
+    transform: translateX(20%);
+}
+
+.Title_2{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: 0px;
+    text-align: left;  
+    color: #091133;   
+}
+
+.Body_2{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #6F7CB2;
+}
+
+.Element_Info_card_1{
+    width: 255px;
+    height: 138px;
+    top: 1554px;
+    left: 165px;
+    position: absolute;
+    transform: translateX(40%);
+}
+
+.Element_Info_card_1 h3{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.Element_Info_card_1 p{
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #5D6970;
+}
+
+.Element_Info_card_2 {
+    width: 255px;
+    height: 138px;
+    top: 1554px;
+    left: 605px;
+    position: absolute;
+    transform: translateX(0%);
+}
+
+.Element_Info_card_2 h3{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.Element_Info_card_2 p{
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #5D6970;
+}
+
+.Intro{
+    position: absolute;
+    width: 1440px;
+    height: 569px;
+    top: 1852px;
+    left: 260.29px;
+}
+
+.Intro_Text_block{
+    position: relative;
+    left: 100px;
+}
+
+.Intro_Text_block p{
+    width: 1000px;
+    color: #6F7CB2;
+}
+
+.Intro_copy{
+    position: absolute;
+    width: 1440px;
+    height: 569px;
+    top: 2421px;
+    left: 260px;
+}
+.Text_Block_ICopy{
+   position: relative;
+   left: 100px;
+}
+
+.Text_Block_ICopy h3{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.Text_Block_ICopy p{
+    width: 1000px;
+    color: #6F7CB2;
+}
+
+.Pricing{
+    position: relative;
+    text-align: center;
+    width: 2546.93px;
+    height: 938px;
+    bottom: -1000px;
+}
+
+.img_end{
+    position: relative;
+    left: -620px;
+    opacity: 50%;
+}
+
+.Text_block_section{
+    position: absolute;
+    width: 600px;
+    height: 116.31px;
+    left: 420px;
+    top: 100px;
+}
+
+.Text_block_section h3{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+.Text_block_section p{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+.Price{
+    position: absolute;
+    width: 600px;
+    height: 116.31px;
+    left: 420px;
+    top: 350px;
+    font-family: Roboto;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 66px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.Title_last{
+    position: absolute;
+    width: 600px;
+    height: 116.31px;
+    left: 420px;
+    top: 450px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+.Body_last{
+    position: absolute;
+    width: 600px;
+    height: 116.31px;
+    left: 420px;
+    top: 550px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: center;
+    
+}
+
+.button3 {
+    /*jak sie centruje diva???*/
+    position: absolute;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+    padding: 15px 42px;
+    border: 2px solid; 
+    border-radius: 10px; 
+    border-color: #091133;
+    color: white;
+    background-color: #091133;
+
+    left: 720px;
+    transform: translateX(-50%);
+    bottom: 290px; 
+}
+
+.footer{
+    position: absolute;
+    width: 1440px;
+    height: 216px;
+    top: 4012px;
+}
+
+.img_rect{
+    position: relative;
+    display: block;
+    margin: 0 auto;
+}
+
+.F_Rect{
+    position: relative;
+    top: 77px;
+}
+
+.Landing{
+    position: relative;
+    width: 79px;
+    display: block;
+    margin: 0 auto;
+    color: #37447E;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 900;
+    line-height: 38px;
+    letter-spacing: 0px;
+    text-align: left;
+    bottom: 70px;
+}
+
+.Footer_C{
+    position: relative;
+    width: 180px;
+    height: 24px;
+    left: 165px;
+    bottom: 110px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #939EA4;    
+}
+
+.Group{
+    position: relative;
+    width: 245px;
+    height: 24px;
+    bottom: 45px;
+    left: 165px;
+}
+
+.Contact, .About, .Home {
+    width: 70px;
+    position: absolute;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #929ECC;
+    bottom: 30px; /* Adjust this value as needed for the desired height */
+}
+.About {
+    left: 100px;
+}
+.Contact {
+    left: 200px;
+}
+
+.Button_Footer{
+    position: relative;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+    padding: 10px 40px;
+    border: 2px solid; 
+    border-radius: 10px; 
+    border-color: #091133;
+    color: white;
+    background-color: #091133;
+
+    left: 1166px;
+    bottom: 190px; 
+}
+
+.Icon{
+    position: relative;
+    width: 16px;
+    height: 16px;
+    bottom: 100px;
+    left: 900px;
+    margin-right: 30px;
+}
